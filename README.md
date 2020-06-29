@@ -8,3 +8,4 @@
 
 Goal | Item | Link to Item
 --- | --- | ---
+Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/Aryan-Parthasarthi/Getting-and-Cleaning-Data-Course-Project/blob/master/run_analysis.R)
